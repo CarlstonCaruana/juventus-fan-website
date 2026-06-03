@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+}
+
+.hero-section {
+    min-height: 420px;
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.70)),
+        url('../images/hero-background.png');
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.info-card {
+    background-color: #f8f9fa;
+    padding: 25px;
+    border-left: 5px solid #111111;
+    border-radius: 8px;
+}
+
+.player-card {
+    border: 1px solid #ddd;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.player-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.player-card .card-title {
+    font-weight: bold;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+.page-header {
+    background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75));
+    min-height: 220px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+main {
+    min-height: 60vh;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.btn-dark {
+    border-radius: 6px;
+}
+
+.table {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+input,
+textarea {
+    border-radius: 6px;
+}
+
+@media (max-width: 768px) {
+    .hero-section {
+        min-height: 300px;
+        padding: 40px 20px;
+    }
+
+    .hero-section h1,
+    .page-header h1 {
+        font-size: 2rem;
+    }
+
+    .navbar-brand {
+        font-size: 1rem;
+    }
+
+    main {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .player-photo {
+        width: 100%;
+        height: 350px;
+        object-fit: cover;
+        object-position: center top;
+        display: block;
+}
+
+    .profile-photo {
+        width: 100px;
+        max-width: 300px;
+        height: 380px;
+        object-fit: contain;
+        object-position: center;
+        background-color: white;
+        padding: 10px;
+    }
+    
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-06-28",
+    "competition": "Serie A",
+    "opponent": "Inter Milan",
+    "venue": "Home",
+    "status": "Upcoming",
+    "score": "-"
+  },
+  {
+    "date": "2026-07-04",
+    "competition": "Serie A",
+    "opponent": "AC Milan",
+    "venue": "Away",
+    "status": "Upcoming",
+    "score": "-"
+  },
+  {
+    "date": "2026-07-11",
+    "competition": "Coppa Italia",
+    "opponent": "Napoli",
+    "venue": "Home",
+    "status": "Upcoming",
+    "score": "-"
+  },
+  {
+    "date": "2026-05-20",
+    "competition": "Serie A",
+    "opponent": "Roma",
+    "venue": "Away",
+    "status": "Finished",
+    "score": "2-1"
+  }
+]

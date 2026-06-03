@@ -1,0 +1,18 @@
+{
+    "id": 3,
+    "player": "Danilo",
+    "position": "Defender",
+    "age": 32,
+    "nationality": "Brazil",
+    "height": "184cm",
+    "weight": "78kg",
+    "birthplace": "Bicas, Brazil",
+    "appearances": 180,
+    "goals": 12,
+    "assists": 15,
+    "clean_sheets": 0,
+    "saves": 0,
+    "club_since": 2019,
+    "previous_clubs": "Porto, Real Madrid, Manchester City",
+    "image": "./images/players-photos/3.png"
+}

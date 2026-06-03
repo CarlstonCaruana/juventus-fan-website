@@ -1,0 +1,82 @@
+[
+    {
+        "player": "Wojciech Szczęsny",
+        "position": "Goalkeeper",
+        "age": 33,
+        "nationality": "Poland",
+        "id": 1,
+        "image": "images/players-photos/1.png"
+    },
+    {
+        "player": "Gleison Bremer",
+        "position": "Defender",
+        "age": 27,
+        "nationality": "Brazil",
+        "id": 2,
+        "image": "./images/players-photos/2.png"
+    },
+    {
+        "player": "Danilo",
+        "position": "Defender",
+        "age": 32,
+        "nationality": "Brazil",
+        "id": 3,
+        "image": "./images/players-photos/3.png"
+    },
+    {
+        "player": "Federico Chiesa",
+        "position": "Forward",
+        "age": 26,
+        "nationality": "Italy",
+        "id": 4,
+        "image": "./images/players-photos/4.png"
+    },
+    {
+        "player": "Dusan Vlahovic",
+        "position": "Forward",
+        "age": 24,
+        "nationality": "Serbia",
+        "id": 5,
+        "image": "./images/players-photos/5.png"
+    },
+    {
+        "player": "Adrien Rabiot",
+        "position": "Midfielder",
+        "age": 28,
+        "nationality": "France",
+        "id": 6,
+        "image": "./images/players-photos/6.png"
+    },
+    {
+        "player": "Manuel Locatelli",
+        "position": "Midfielder",
+        "age": 26,
+        "nationality": "Italy",
+        "id": 7,
+        "image": "./images/players-photos/7.png"
+    },
+    {
+        "player": "Paul Pogba",
+        "position": "Midfielder",
+        "age": 30,
+        "nationality": "France",
+        "id": 8,
+        "image": "./images/players-photos/8.png"
+    },
+    {
+        "player": "Timothy Weah",
+        "position": "Midfielder",
+        "age": 24,
+        "nationality": "USA",
+        "id": 9,
+        "image": "./images/players-photos/9.png"
+    },
+    {
+        "player": "Federico Gatti",
+        "position": "Defender",
+        "age": 25,
+        "nationality": "Italy",
+        "id": 10,
+        "image": "./images/players-photos/10.png"
+    }
+]

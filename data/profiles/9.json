@@ -1,0 +1,18 @@
+{
+    "id": 9,
+    "player": "Timothy Weah",
+    "position": "Midfielder",
+    "age": 24,
+    "nationality": "USA",
+    "height": "183cm",
+    "weight": "66kg",
+    "birthplace": "New York City, USA",
+    "appearances": 45,
+    "goals": 5,
+    "assists": 8,
+    "clean_sheets": 0,
+    "saves": 0,
+    "club_since": 2023,
+    "previous_clubs": "Paris Saint-Germain, Celtic, Lille",
+    "image": "./images/players-photos/9.png"
+}
